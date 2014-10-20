@@ -646,8 +646,8 @@
     <text transform="matrix(1, 0, 0, 1, 54, 432)">
       <tspan x="-2.655" y="6" font-family="HelveticaNeue-Bold" font-size="18" fill="#000000">Í</tspan>
     </text>
-    <text transform="matrix(1, 0, 0, 1, 138, 432)">
-      <tspan x="-5.004" y="6" font-family="HelveticaNeue-Bold" font-size="18" fill="#000000">J</tspan>
+    <text transform="matrix(1, 0, 0, 1, 138, 432)" id="J_0">
+      <tspan x="-12.51" y="6" font-family="HelveticaNeue-Bold" font-size="18" fill="#000000">J 0</tspan>
     </text>
     <text transform="matrix(1, 0, 0, 1, 222, 432)">
       <tspan x="-6.498" y="6" font-family="HelveticaNeue-Bold" font-size="18" fill="#000000">K</tspan>
