@@ -1,6 +1,6 @@
 # Česká braillská tabulka
 
-## Vlastnosti
+## Vlastnosti & Licence
 - Celá tabulka je vektorová
 - Jednotlivé znaky jsou ve skupinách
 - Všechny znaky pochází z české [Wikipedie](http://cs.wikipedia.org/wiki/Braillovo_písmo)
@@ -16,4 +16,3 @@
 
 ## Náhled
 ![Náhled](https://raw.githubusercontent.com/pdostal/ceska-braillska-tabulka/master/tabulka.png)
-
