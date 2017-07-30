@@ -1,5 +1,7 @@
 # Česká braillská tabulka
 
+![Náhled](https://raw.githubusercontent.com/pdostal/ceska-braillska-tabulka/master/tabulka.png)
+
 ## Vlastnosti & Licence
 - Celá tabulka je vektorová
 - Jednotlivé znaky jsou ve skupinách
@@ -13,6 +15,3 @@
 - Připravit cizojazyčné verze
 - Přidat rozšířené znaky
 - Přidat příklady použití
-
-## Náhled
-![Náhled](https://raw.githubusercontent.com/pdostal/ceska-braillska-tabulka/master/tabulka.png)
